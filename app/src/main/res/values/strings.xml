@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Namangan Travel</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Chiqish</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="welcome_to_nam_travel">Namangan Travel \n Ilovasiga \n xush kelibsiz</string>
+    <string name="register">Ro\'yhatdan o\'tish</string>
+    <string name="phone_number_or_email">Email kiriting:</string>
+    <string name="password">Parolni kiriting:</string>
+    <string name="conform_password">Parolni tasdiqlang:</string>
+    <string name="login">Login</string>
+    <string name="kerakli_xizmatni_tanlang">Kerakli xizmatni tanlang!</string>
+    <string name="please_waiting">Iltimos kuting…</string>
+    <string name="search">Search</string>
+    <string name="google_map_key">AIzaSyBwQo0PkF-Coff-lMYkSuaKvb1ttZaR6jE</string>
+
+
+    <!--    String arrays-->
+    <string-array name="servesNames">
+        <item>Sightseeing</item>
+        <item>Hotel</item>
+        <item>Restaurant</item>
+        <item>Airport</item>
+        <item>Sport</item>
+        <item>Mosque</item>
+        <item>Resort Area</item>
+        <item>Super Market</item>
+        <item>Taxi</item>
+        <item>Museum</item>
+        <item>National Park</item>
+        <item>Library</item>
+    </string-array>
+
+    <string-array name="servesType">
+        <item>sightseeing</item>
+        <item>hotel</item>
+        <item>restaurant</item>
+        <item>airport</item>
+        <item>sport</item>
+        <item>mosque</item>
+        <item>resort_area</item>
+        <item>super_market</item>
+        <item>taxi</item>
+        <item>museum</item>
+        <item>national_park</item>
+        <item>library</item>
+    </string-array>
+</resources>

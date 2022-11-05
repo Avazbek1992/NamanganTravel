@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381519510968",
+    "project_id": "namangan-travel",
+    "storage_bucket": "namangan-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381519510968:android:8c9755b9d69f312f91634d",
+        "android_client_info": {
+          "package_name": "uz.nits.namangantravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381519510968-uafn23e961pgkhcca40r03p6q9pd1162.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.nits.namangantravel",
+            "certificate_hash": "ac37a304784afc304bb088b9d9f2cd6d26167cc1"
+          }
+        },
+        {
+          "client_id": "381519510968-8les124o25smbijgfp3msc3cla25puab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl5As0J2Oy9qU4LgdVYJvGWcGnsbgG3jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381519510968-8les124o25smbijgfp3msc3cla25puab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
